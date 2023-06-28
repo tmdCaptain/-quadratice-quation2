@@ -1,0 +1,8 @@
+D:\Workspace\LaptrinhC#\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe.config
+D:\Workspace\LaptrinhC#\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe
+D:\Workspace\LaptrinhC#\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.pdb
+D:\Workspace\LaptrinhC#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.csproj.AssemblyReference.cache
+D:\Workspace\LaptrinhC#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\LaptrinhC#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.csproj.CoreCompileInputs.cache
+D:\Workspace\LaptrinhC#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.exe
+D:\Workspace\LaptrinhC#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.pdb
